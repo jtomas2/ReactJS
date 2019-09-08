@@ -1,0 +1,129 @@
+.card {
+  margin-right: 2px;
+  margin-bottom: 0;
+  margin-left: 2px;
+  margin-bottom: 2.25rem;
+  margin-right: 0.1rem;
+  border: none;
+}
+
+.card-img-top {
+  width: 100%;
+  height: 30vh;
+  object-fit: cover;
+}
+
+.border-bottom {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12) !important;
+  padding: 0.5rem;
+}
+
+.eventRow {
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.card-header {
+  padding: 0.625rem 0.9375rem;
+}
+
+.eventCard {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: initial;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  border-radius: 0.25rem;
+  margin-bottom: 1.25rem;
+}
+
+.badge {
+  padding: 0.1875rem 0.4375rem;
+  font-size: 0.75rem;
+  border-radius: 0.625rem;
+}
+
+.badge-primary {
+  color: #fff;
+  background-color: #5d9cec;
+}
+
+.badge {
+  display: inline-block;
+  font-weight: 700;
+  line-height: 0.9;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: initial;
+}
+
+.eventBackground {
+  background-color: #fff;
+}
+
+.bb {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.bt {
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.card-header {
+  background-color: white;
+  border-bottom: none;
+}
+
+.content-wrapper {
+  border-top: none;
+}
+
+.b {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.12);
+  border-top: 1px solid rgba(0, 0, 0, 0.12);
+  border-left: 1px solid rgba(0, 0, 0, 0.12);
+  border-right: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.container {
+  max-width: 1140px;
+  padding-top: 2.5rem;
+  padding-right: 10px;
+  padding-left: 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.page-wide {
+  max-width: 900px;
+}
+
+.page {
+  box-sizing: border-box;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+.divide {
+  border-top: 0.01px solid rgb(204, 204, 204);
+  background-color: #fff;
+  margin-bottom: 0;
+  padding-bottom: 1rem;
+  padding-top: 1rem;
+}
+
+.eventName {
+  color: black;
+}
+
+.body {
+  font-family: Source Sans Pro, sans-serif;
+  color: #656565;
+  font-size: 0.875rem;
+}
